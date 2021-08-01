@@ -1,4 +1,7 @@
 # arctext
+[![NPM version](https://badgen.net/npm/v/@arctext/react)](https://www.npmjs.com/package/@arctext/react)
+[![Package size](https://badgen.net/bundlephobia/minzip/@arctext/react)](https://bundlephobia.com/result?p=@arctext/react)
+
 <p align="center">
   <img alt="proof that tony stark has a heart" src="https://github.com/junhoyeo/arctext/raw/main/docs/images/proof-that-tony-stark-has-a-heart.png" width="360px" />
 </p>
