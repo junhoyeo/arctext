@@ -56,7 +56,7 @@ export const ArcText: React.FC<ArcTextProps> = ({
           )}
         </span>
       )),
-    [arc, degree, radius],
+    [arc, degree, radius, upsideDown],
   )
 
   return (
