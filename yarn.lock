@@ -10,13 +10,11 @@ __metadata:
   resolution: "@arctext/react@workspace:packages/react"
   dependencies:
     "@types/react": ^17.0.13
-    "@types/react-dom": ^17.0.8
     react: ^17.0.2
     react-dom: ^17.0.2
     typescript: ^4.3.5
   peerDependencies:
     react: ^17.0.2
-    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -27,16 +25,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^17.0.8":
-  version: 17.0.9
-  resolution: "@types/react-dom@npm:17.0.9"
-  dependencies:
-    "@types/react": "*"
-  checksum: b7e898e1a22643a371f58e801a3d1d8cf13a82d77063c24be73e840ef8d877ca1d04adc5db168d0dac3167dc050a26b1d70efc5fe8566a7f46a3c488a8322989
-  languageName: node
-  linkType: hard
-
-"@types/react@npm:*, @types/react@npm:^17.0.13":
+"@types/react@npm:^17.0.13":
   version: 17.0.15
   resolution: "@types/react@npm:17.0.15"
   dependencies:

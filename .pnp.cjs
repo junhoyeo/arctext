@@ -51,7 +51,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@arctext/react", "workspace:packages/react"],
             ["@types/react", "npm:17.0.15"],
-            ["@types/react-dom", "npm:17.0.9"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:474f9418cd1a70b278b3d2676788013d145314c769ace94737dc562f9cdaf4de3b238c88ccb3e7e7a8b3848261f7ee27459877f85a58b2e4683a6197af214ecb#npm:17.0.2"],
             ["typescript", "patch:typescript@npm%3A4.3.5#~builtin<compat/typescript>::version=4.3.5&hash=d8b4e7"]
@@ -76,16 +75,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/prop-types", "npm:15.7.4"],
             ["@types/scheduler", "npm:0.16.2"],
             ["csstype", "npm:3.0.8"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["@types/react-dom", [
-        ["npm:17.0.9", {
-          "packageLocation": "./.yarn/cache/@types-react-dom-npm-17.0.9-046b4282f3-b7e898e1a2.zip/node_modules/@types/react-dom/",
-          "packageDependencies": [
-            ["@types/react-dom", "npm:17.0.9"],
-            ["@types/react", "npm:17.0.15"]
           ],
           "linkType": "HARD",
         }]
