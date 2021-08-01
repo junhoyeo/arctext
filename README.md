@@ -68,3 +68,30 @@ import { ArcText } from '@arctext/react'
   />
 </ArcText>
 ```
+
+### Styling
+**Monospaced fonts**—the fonts that have the same width for each character—are recommended here. The result may look awkward with other typefaces.
+
+<p align="center">
+  <img alt="junhoyeo styled" src="https://github.com/junhoyeo/arctext/raw/main/docs/images/junhoyeo-styled.png" width="264px" />
+</p>
+
+```tsx
+import { ArcText } from '@arctext/react'
+import styled from 'styled-components'
+
+<Circle text="@junhoyeo" width={500} characterWidth={4.8} />
+
+// Styling is based on `className`
+const Circle = styled(ArcText)`
+  background-color: white;
+  border-width: 50%;
+
+  // Applied to each characters
+  & span.character {
+    color: black;
+    font-size: 37px;
+    font-family: monospace;
+  }
+`
+```
