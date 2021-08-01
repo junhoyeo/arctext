@@ -3,7 +3,7 @@
   <img alt="proof that tony stark has a heart" src="./docs/images/proof-that-tony-stark-has-a-heart.png" width="360px" />
 </p>
 
-> 💿 UI component to draw circular curved text
+> 💿 UI component to draw curved text in circles
 
 ## 📦 Installation
 React for now. Vue and Svelte coming soon.

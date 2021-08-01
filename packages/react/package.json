@@ -1,6 +1,6 @@
 {
   "name": "@arctext/react",
-  "description": "UI component to draw circular curved text",
+  "description": "UI component to draw curved text in circles",
   "version": "1.0.0",
   "author": "Junho Yeo <hanaro0704@gmail.com>",
   "main": "dist/index.js",
