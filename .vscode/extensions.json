@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "arcanis.vscode-zipfs"
+    "arcanis.vscode-zipfs",
+    "esbenp.prettier-vscode",
+    "mike-co.import-sorter"
   ]
 }
