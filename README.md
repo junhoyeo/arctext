@@ -1,18 +1,21 @@
-# arc-text
-> ⭕ Draw circular curved text
+# arctext
+<p align="center">
+  <img alt="proof that tony stark has a heart" src="./docs/images/proof-that-tony-stark-has-a-heart.png" width="360px" />
+</p>
 
-## 📦 @arc-text/react
+> 💿 UI component to draw circular curved text
 
-### Installation
+## 📦 Installation
+React for now. Vue and Svelte coming soon.
 
 ```bash
-yarn add @arc-text/core
+yarn add @arctext/react
 ```
 
-### Usage
+## 🚀 Usage
 
 ```tsx
-import { ArcText } from '@arc-text/core'
+import { ArcText } from '@arctext/react'
 
 <ArcText
   text="@junhoyeo"
