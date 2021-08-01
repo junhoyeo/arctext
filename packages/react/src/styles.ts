@@ -15,6 +15,9 @@ const absoluteContainer: React.CSSProperties = {
 const text: React.CSSProperties = {
   position: 'relative',
   margin: 0,
+
+  /* Firefox support */
+  display: 'block',
 }
 
 const character: React.CSSProperties = {
