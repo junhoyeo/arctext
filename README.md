@@ -1,6 +1,6 @@
 # arctext
 <p align="center">
-  <img alt="proof that tony stark has a heart" src="./docs/images/proof-that-tony-stark-has-a-heart.png" width="360px" />
+  <img alt="proof that tony stark has a heart" src="https://github.com/junhoyeo/arctext/raw/main/docs/images/proof-that-tony-stark-has-a-heart.png" width="360px" />
 </p>
 
 > 💿 UI component to draw curved text in circles
@@ -18,7 +18,7 @@ yarn add @arctext/react
 ### Basic Usage
 
 <p align="center">
-  <img alt="junhoyeo" src="./docs/images/junhoyeo.png" width="264px" />
+  <img alt="junhoyeo" src="https://github.com/junhoyeo/arctext/raw/main/docs/images/junhoyeo.png" width="264px" />
 </p>
 
 ```tsx
@@ -33,7 +33,7 @@ import { ArcText } from '@arctext/react'
 ### Upside-down(bottom text)
 
 <p align="center">
-  <img alt="junhoyeo upside down" src="./docs/images/junhoyeo-upside-down.png" width="264px" />
+  <img alt="junhoyeo upside down" src="https://github.com/junhoyeo/arctext/raw/main/docs/images/junhoyeo-upside-down.png" width="264px" />
 </p>
 
 ```tsx
@@ -48,7 +48,7 @@ import { ArcText } from '@arctext/react'
 ### Nested
 
 <p align="center">
-  <img alt="proof that tony stark has a heart" src="./docs/images/proof-that-tony-stark-has-a-heart.png" width="264px" />
+  <img alt="proof that tony stark has a heart" src="https://github.com/junhoyeo/arctext/raw/main/docs/images/proof-that-tony-stark-has-a-heart.png" width="264px" />
 </p>
 
 ```tsx
