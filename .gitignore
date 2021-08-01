@@ -1,3 +1,6 @@
+.DS_Store
+dist/
+
 /.yarn/*
 !/.yarn/patches
 !/.yarn/plugins
