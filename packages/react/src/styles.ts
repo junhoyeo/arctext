@@ -5,6 +5,9 @@ const container: React.CSSProperties = {
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
+
+  /* selectable span when even components are nested */
+  pointerEvents: 'none',
 }
 
 const absoluteContainer: React.CSSProperties = {
@@ -18,6 +21,9 @@ const text: React.CSSProperties = {
 
   /* Firefox support */
   display: 'block',
+
+  /* selectable span when even components are nested */
+  pointerEvents: 'initial',
 }
 
 const character: React.CSSProperties = {
